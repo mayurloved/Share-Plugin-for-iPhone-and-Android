@@ -1,20 +1,19 @@
 # PhoneGap Social Sharing plugin for Android and iOS6+
 
-by [Eddy Verbruggen](http://www.x-services.nl)
+by [Mayur Panchal](http://www.x-services.nl)
 
 * These instructions are for PhoneGap 3.0.0 and up.
-* For Phonegap 2.9.0 and lower, see [the 2.x branch](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/tree/phonegap-2.x/).
 
 ## 0. Index
 
-1. [Description](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#1-description)
-2. [Installation](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#2-installation)
-	2. [Automatically (CLI / Plugman)](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#automatically-cli--plugman)
-	2. [Manually](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#manually)
-	2. [PhoneGap Build](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#phonegap-build)
-3. [Usage](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#3-usage)
-4. [Credits](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#4-credits)
-5. [License](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin#5-license)
+1. [Description](https://github.com/mayurloved/phonegap#1-description)
+2. [Installation](https://github.com/mayurloved/phonegap#2-installation)
+	2. [Automatically (CLI / Plugman)](https://github.com/mayurloved/phonegap#automatically-cli--plugman)
+	2. [Manually](https://github.com/mayurloved/phonegap#manually)
+	2. [PhoneGap Build](https://github.com/mayurloved/phonegap#phonegap-build)
+3. [Usage](https://github.com/mayurloved/phonegap#3-usage)
+4. [Credits](https://github.com/mayurloved/phonegap#4-credits)
+5. [License](https://github.com/mayurloved/phonegap#5-license)
 
 ## 1. Description
 
@@ -29,7 +28,7 @@ This plugin allows you to use the native sharing window of your mobile device.
 
 iOS 6 screenshot (options are based on what has been setup in the device settings):
 
-![ScreenShot](https://raw.github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/master/screenshot.png)
+![ScreenShot](https://github.com/mayurloved/phonegap/blob/master/screenshot.png)
 
 ## 2. Installation
 
@@ -164,7 +163,7 @@ And thanks for the tip, Simon Robichaud!
 
 ## 4. CREDITS ##
 
-This plugin was enhanced for Plugman / PhoneGap Build by [Eddy Verbruggen](http://www.x-services.nl).
+This plugin was enhanced for Plugman / PhoneGap Build by [Mayur Panchal](http://www.x-services.nl).
 The Android code was entirely created by the author.
 The iOS code was inspired by [Cameron Lerch](https://github.com/bfcam/phonegap-ios-social-plugin).
 I also included a nice enhancement posted [here](https://github.com/bfcam/phonegap-ios-social-plugin/issues/3#issuecomment-21353674) to allow sharing files from the internet.
@@ -172,7 +171,7 @@ I also included a nice enhancement posted [here](https://github.com/bfcam/phoneg
 
 ## 5. License
 
-[The MIT License (MIT)](http://www.opensource.org/licenses/mit-license.html)
+[The MHP License (NIT)](http://www.excellentwebworld.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -193,5 +192,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EddyVerbruggen/socialsharing-phonegap-plugin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Mayur Panchal](http://excellentwebworld.com/wp-content/uploads/2013/07/logo.png)](http://www.excellentwebworld.com/ "Blogging")
 
