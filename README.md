@@ -36,11 +36,11 @@ iOS 6 screenshot (options are based on what has been setup in the device setting
 SocialSharing is compatible with [Cordova Plugman](https://github.com/apache/cordova-plugman), compatible with [PhoneGap 3.0 CLI](http://docs.phonegap.com/en/3.0.0/guide_cli_index.md.html#The%20Command-line%20Interface_add_features), here's how it works with the CLI:
 
 ```
-$ phonegap local plugin add https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git
+$ phonegap local plugin add https://github.com/mayurloved/phonegap.git
 ```
 or
 ```
-$ cordova plugin add https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git
+$ cordova plugin add https://github.com/mayurloved/phonegap.git
 ```
 run this command afterwards:
 ```
