@@ -28,7 +28,7 @@ This plugin allows you to use the native sharing window of your mobile device.
 
 iOS 6 screenshot (options are based on what has been setup in the device settings):
 
-![ScreenShot](https://github.com/mayurloved/phonegap/blob/master/screenshot.png)
+![ScreenShot](http://www.excellentwebworld.com/wp-content/uploads/2013/11/sharethis.jpg)
 
 ## 2. Installation
 
