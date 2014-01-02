@@ -1,6 +1,6 @@
 # PhoneGap Social Sharing plugin for Android and iOS6+
 
-by [Mayur Panchal](http://www.x-services.nl)
+by [Mayur Panchal](http://www.excellentwebworld.com)
 
 * These instructions are for PhoneGap 3.0.0 and up.
 
